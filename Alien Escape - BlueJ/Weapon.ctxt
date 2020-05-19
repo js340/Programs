@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Weapon
+comment1.params=name\ damage
+comment1.target=Weapon(java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=int\ getDamage()
+comment4.params=
+comment4.target=java.lang.String\ getPrintingInfo()
+comment5.params=player\ cellMap
+comment5.target=void\ swapItem(Player,\ java.util.ArrayList)
+numComments=6

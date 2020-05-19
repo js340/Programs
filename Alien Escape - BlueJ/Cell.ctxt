@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Cell
+comment1.params=name\ c\ i
+comment1.target=Cell(java.lang.String,\ Organism,\ Entity)
+comment2.params=
+comment2.target=Organism\ getOrganism()
+comment3.params=
+comment3.target=Entity\ getItem()
+comment4.params=e
+comment4.target=void\ setItem(Entity)
+numComments=5
